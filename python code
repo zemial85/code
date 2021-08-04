@@ -1,0 +1,4 @@
+def count_sheeps(y):
+    count = y.count(True)
+    return count
+    print (f" There are {count} sheeps in total")
